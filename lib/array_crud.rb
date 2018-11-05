@@ -6,7 +6,7 @@ def create_an_array
   ["earth", "fire", "air", "water"]
 end
 
-def add_element_to_end_of_array(create_an_array, "spirits")
+def add_element_to_end_of_array(array, element)
   create_an_array << "spirits"
 end
 
